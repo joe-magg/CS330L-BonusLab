@@ -1,9 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Navbar from './components/Navbar';
 function App() {
   return (
     <div className="App">
+      <div classname="Navbar">
+        <Navbar />
+      </div>
       <h1>CS 330L</h1>
       <h2>Section - 010</h2>
       <p>WVU ID: 800418467</p>
