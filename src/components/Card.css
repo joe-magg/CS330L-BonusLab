@@ -1,0 +1,17 @@
+.card-title {
+  font-family: 'Roboto', monospace;
+  font-size: 1.6rem;
+  color: var(--color-text);
+  text-decoration: underline;
+}
+
+.card-text {
+  font-family: 'Fragment Mono', monospace;
+  font-size: 1.4rem;
+  color: var(--color-text);
+  text-decoration: none;
+}
+/* 
+.card {
+    background: rgba(219, 173, 106) !important;
+} */

@@ -1,0 +1,22 @@
+.modal-title {
+  font-family: 'Roboto', monospace;
+  font-size: 1.5rem;
+  text-align: center !important;
+  font-weight: bold;
+}
+
+.modal-body {
+  font-family: 'Fragment Mono', monospace;
+  font-size: 1rem;
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.btn.btn-primary.modal-button {
+  background-color: rgb(219, 173, 106) !important;
+  font-family: 'Roboto', monospace;
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: var(--color-text);
+  text-decoration: none;
+}
