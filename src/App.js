@@ -13,7 +13,7 @@ function App() {
       <h2>Section - 010</h2>
       <p>WVU ID: 800418467</p>
       <p>Hi, I am Joe!</p>
-      <h3> These are the projects I am currently working on:</h3>
+      <h3> Take a look at some of my coding projects:</h3>
       <div classname="Card">
         <Card />
       </div>
