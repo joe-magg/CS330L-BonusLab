@@ -1,6 +1,8 @@
+import './Navbar.css';
+
 function Navbar() {
     return (
-        <nav className="navbar bg-dark navbar-dark">
+        <nav className="navbar">
             <div className="container-fluid d-flex align-items-center">
                 <div className="d-flex align-items-center">
                     <button 
@@ -20,10 +22,7 @@ function Navbar() {
                             <a className="nav-link" href="#">Home</a>
                         </li>
                         <li className="nav-item ms-3">
-                            <a className="nav-link disabled" href="#" aria-disabled="true">Item2</a>
-                        </li>
-                        <li className="nav-item ms-3">
-                            <a className="nav-link disabled" href="#" aria-disabled="true">Item2</a>
+                            <a className="nav-link disabled" href="#" aria-disabled="true">Projects (coming soon)</a>
                         </li>
                     </ul>
                     </div>
